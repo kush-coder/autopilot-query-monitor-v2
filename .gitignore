@@ -1,0 +1,10 @@
+/composer.lock
+/docs/.vitepress/cache
+/docs/.vitepress/dist
+/vendor
+/node_modules
+/assets/build
+/.playwright-mcp
+/tests/test-results
+/tests/cache
+*.zip
